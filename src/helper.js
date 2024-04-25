@@ -1,0 +1,1 @@
+export const FRONTEND_URL="https://food-2mto.onrender.com/"
